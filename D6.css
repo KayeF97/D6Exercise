@@ -1,0 +1,40 @@
+#Timb{
+    border-radius: 20px;
+    position: relative;
+    
+}
+
+#button_1{
+    position: absolute;
+    left: 50%;
+    bottom: 45%;
+    display: inline;
+}
+
+#ellipsis{
+    position: absolute;
+    left: 55%;
+    bottom: 45%;
+}
+
+#arrow{
+    position: absolute;
+    left: 30%;
+    bottom: 45%;
+
+}
+
+.button{
+    display: inline-block;
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    background-color: red;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 12px;
+
+}
